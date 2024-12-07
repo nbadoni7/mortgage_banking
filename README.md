@@ -44,8 +44,6 @@
 ### 9. **Password Encryption**
    - Enhanced security by using the **`btoa` JavaScript API** to base64 encode passwords in the Login Module.
 
----
-
 ## Key Features Delivered
 - **Reusable UI components** for team-wide usage.
 - **Secure Login System** integrated with Firebase.
@@ -53,6 +51,7 @@
 - **Redux State Management** for authentication and data flow.
 - **Test Coverage** for the Login Module, ensuring reliability and quality.
 
+---
 
 # Getting Started with Create React App
 
